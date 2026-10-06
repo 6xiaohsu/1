@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 repoB 的修改内容
+=======
+repoA 的修改内容
+>>>>>>> 97a1c3adab3dbcb25e98f8a4bbe2e0c7ccf365ad
